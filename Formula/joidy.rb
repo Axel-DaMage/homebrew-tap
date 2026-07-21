@@ -6,13 +6,13 @@ class Joidy < Formula
   depends_on "docker-compose"
 
   on_macos do
-    url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-test.4.tar.gz"
-    sha256 "a0b8e215af14116fb5ac13adc75bbc650e76a7eee4a8c4018091e0297dfe7183"
+    url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-test.5.tar.gz"
+    sha256 "90fa908abeb9ae6a0835ba1a50d121d0d8391331bc1424c0a9938dd1eb091ee8"
   end
 
   on_linux do
-    url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-test.4.tar.gz"
-    sha256 "a0b8e215af14116fb5ac13adc75bbc650e76a7eee4a8c4018091e0297dfe7183"
+    url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-test.5.tar.gz"
+    sha256 "90fa908abeb9ae6a0835ba1a50d121d0d8391331bc1424c0a9938dd1eb091ee8"
   end
 
   def install
