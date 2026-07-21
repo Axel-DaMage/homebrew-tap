@@ -7,12 +7,12 @@ class Joidy < Formula
 
   on_macos do
     url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-rc.2.tar.gz"
-    sha256 "d59acadc71d977a2e3621983667affd9b2557b49a6a1cff3e606181c9dd5ce6d"
+    sha256 "f180c3cb209f463842605fd9191841f914c7c6495ff904a2b38ce8e044d3f8f1"
   end
 
   on_linux do
     url "https://github.com/Axel-DaMage/joidy/archive/refs/tags/v1.0.0-rc.2.tar.gz"
-    sha256 "d59acadc71d977a2e3621983667affd9b2557b49a6a1cff3e606181c9dd5ce6d"
+    sha256 "f180c3cb209f463842605fd9191841f914c7c6495ff904a2b38ce8e044d3f8f1"
   end
 
   def install
